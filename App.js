@@ -1,5 +1,11 @@
 import React from 'react';
+
 function App() {
-  return <h1>Welcome to Lotteria.us</h1>;
+  return (
+    <div className="App">
+      <h1>Welcome to Lotteria.us</h1>
+    </div>
+  );
 }
+
 export default App;
